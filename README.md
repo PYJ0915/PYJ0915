@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm YuJin 👋</h1>
 
-<br/>
-
 ---
 
 ## 🛠 Tech Stack
