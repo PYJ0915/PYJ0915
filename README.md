@@ -33,22 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PYJ0915&show_icons=true&theme=default&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PYJ0915&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PYJ0915&theme=minimal&hide_border=true&area=true" width="95%"/>
-</p>
-
-<br/>
-
----
-
 ## 🗂 Projects
 
 ---
